@@ -7,7 +7,7 @@
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/wallyjaytechh/WALLYJAYTECH-MD-QR?style=social" target="_blank" />
   </a>
   <a aria-label="WALLYJAYTECH_MD is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
-    <img alt="wallyjaytechh" src="https://img.shields.io/youtube/channel/subscribers/wallyjaytechy" target="_blank" />
+    <img alt="wallyjaytechh" src="https://img.shields.io/youtube/channel/subscribers/UCXGqfhaa_pZYaLlIwbQb8KQ" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="wallyjaytechh :: Visitor's Count" /></p>
 
