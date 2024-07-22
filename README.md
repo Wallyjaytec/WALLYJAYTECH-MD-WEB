@@ -22,7 +22,10 @@
     <br>
 <a href='https://github.com/wallyjaytechh/WALLYJAYTECH-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
+2.   Heroku Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/wallyjaytechh/WALLYJAYTECH-MD-QR/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
 3.   Replit Deploy
     <br>
     <a href='https://repl.it/github/wallyjaytechh/WALLYJAYTECH-MD-QR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
