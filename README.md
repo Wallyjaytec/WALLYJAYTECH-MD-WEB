@@ -18,7 +18,10 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+1.  Fork the repo
+    <br>
+<a href='https://github.com/wallyjaytechh/WALLYJAYTECH-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
