@@ -46,7 +46,7 @@ RENDER PROCESS:
 
 - WASocket Options
 ```js
-    let Smd =SuhailWASocket({ 
+    let Smd =WallyjaytechWASocket({ 
         printQRInTerminal: false,   // make it false if you're using web
         logger: pino({ level: "silent" }),     // make it silent to prevent baileys buffering
         browser: Browsers.baileys("Desktop"),  // awailable browsers : ubuntu, macOS, baileys.
@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![Wallyjaytechh](https://graph.org/file/21e984a94def2215b0215.jpg)?size=300)](https://github.com/Wallyjaytechh)
