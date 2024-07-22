@@ -24,7 +24,10 @@
 
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
-4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
+4.  Render Deploy
+    <br>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
 ```
 RENDER PROCESS:
     1: Click "NEW".
