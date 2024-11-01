@@ -1,4 +1,4 @@
-<h1 align="center"> WEB BASED MULTIDEVICE QR </h1>
+<h1 align="center"> WALLYJAYTECH-MD WEB BASED MULTIDEVICE QR </h1>
 
   <html>
    <body>
@@ -94,4 +94,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![Wallyjaytechh](https://graph.org/file/21e984a94def2215b0215.jpg)?size=300)](https://github.com/Wallyjaytechh)
+[![Wallyjaytechh](https://i.ibb.co/TLG3Mb4/photo-2024-11-01-16-00-22.jpg)?size=300)](https://github.com/Wallyjaytechh)
