@@ -13,22 +13,30 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╔════◇
-║ *『 WAOW YOU CHOOSE WALLYJAYTECH-MD 』*
-║ _You complete first step to Deploying Bot._
-║
-║  *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-║ https://github.com/wallyjaytechh/WALLYJAYTECH-MD
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭 👇 
-║ https://chat.whatsapp.com/FTuAbXCgwPLDt96BK7bm5P
-║ *Ytube:* _youtube.com/wallyjaytechy_
-║ *Owner:* _https://wa.me/2348144317152_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
-╚════════════════════════╝
+╔═══════════════════════
+ωєℓ¢σмє тσ ωαℓℓуנαутє¢н вσт🤖🤖🤖 ════════════════════╗
+✅✅✅✅✅✅✅✅✅✅                                          
+𝕎𝔸𝕃𝕃𝕐𝕁𝔸𝕐𝕋𝔼ℂℍ-𝕄𝔻 ℚℝ 𝕊ℂ𝔸ℕℕ𝔼𝔻 𝕊𝕌ℂℂ𝔼𝕊𝕊𝔽𝕌𝕃𝕃𝕐 
+ ██████████████████████████████████████ 
+ ║
+ ║ 𝙍𝙚𝙖𝙙 𝙩𝙝𝙚 𝙢𝙚𝙨𝙨𝙨𝙖𝙜𝙚 𝙗𝙚𝙡𝙤𝙬  
+ █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 
+ ╔════════════════════════════════╗ 
+ ║
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ ❶ || 𝘾𝙧𝙚𝙖𝙩𝙤𝙧= 👑 𝙀𝙎 𝙏𝙀𝘼𝙈𝙎 𝙏𝙀𝘾𝙃 👑
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ ❷ || 𝙈𝙮 𝙬𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝘾𝙝𝙖𝙣𝙣𝙚𝙡👇 
+ > https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y 
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ ❸ || 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚👇 
+ > https://wa.me/2349037524605
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ *2024-2099 ᴘᴀꜱᴄʜᴀʟ ᴊᴇ*
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 
+ ║                                             
+ ║ © 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙘𝙝𝙤𝙤𝙨𝙨𝙞𝙣𝙜 𝙀𝙎 𝙏𝙀𝘼𝙈𝙎-𝙑2                 
+ ╚═══════════════════════════════════════════╝
 `
 
 
