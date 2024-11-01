@@ -94,4 +94,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![Wallyjaytechh](https://i.ibb.co/TLG3Mb4/photo-2024-11-01-16-00-22.jpg)
+![Wallyjaytechh](https://i.ibb.co/TLG3Mb4/photo-2024-11-01-16-00-22.jpg)
